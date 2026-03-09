@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(dir /s /b \"C:\\\\Users\\\\Alexander\\\\Desktop\\\\GEO\\\\Geotech_Coding_Assignments\\\\*.ipynb\")"
+    ]
+  }
+}
